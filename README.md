@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Omar
 
-<!--
-**omar1506/omar1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Web en Formación
 
-Here are some ideas to get you started:
+Actualmente enfocado en dominar el desarrollo front-end a través de certificaciones profesionales y proyectos prácticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 En este momento
+- 🎓 Cursando certificaciones de **freeCodeCamp**
+- 💻 Aprendiendo: **HTML5, CSS3, JavaScript** y **React**
+- 📚 Meta: Convertirme en desarrollador front-end profesional
+- ⏰ Dedicación: 3 horas diarias de estudio
+
+### 🏆 Certificaciones en Progreso
+- [ ] Responsive Web Design (freeCodeCamp)
+- [ ] JavaScript Algorithms and Data Structures (freeCodeCamp)
+- [ ] Front End Development Libraries (freeCodeCamp)
+
+### 📌 Proyectos Destacados
+- [freeCodeCamp - Responsive Web Design](#) - Próximamente
+
+### 📂 Repositorios Anteriores
+Mis proyectos más antiguos representan mi proceso de aprendizaje inicial.  
+Cada commit es un paso en mi evolución como desarrollador.
+
+---
+
+💡 *"El código perfecto no existe, pero el código que mejora cada día sí"*
