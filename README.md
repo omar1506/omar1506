@@ -7,7 +7,7 @@ Actualmente enfocado en dominar el desarrollo front-end a través de certificaci
 ### 🎯 En este momento
 - 🎓 Cursando certificaciones de **freeCodeCamp**
 - 💻 Aprendiendo: **HTML5, CSS3, JavaScript** y **React**
-- 📚 Meta: Convertirme en desarrollador front-end profesional
+- 📚 Meta: Convertirme en desarrollador full-stack
 - ⏰ Dedicación: 3 horas diarias de estudio
 
 ### 🏆 Certificaciones en Progreso
